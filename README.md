@@ -54,5 +54,3 @@
   </a>
 </div>
 
-![snake gif](https://raw.githubusercontent.com/emmily5/emmily5/output/github-contribution-grid-snake.svg)
-
