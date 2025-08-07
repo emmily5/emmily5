@@ -1,15 +1,12 @@
-### 👋 Olá, mundo! Eu sou a Emilly Miller
+### 👋 Hello, worold! Eu sou a Emilly Miller
 
 🎓 Estudante de Tecnologia da Informação, apaixonada por tecnologia, pessoas e soluções inteligentes.
 
 💡 Atualmente, estou explorando o mundo da **Inteligência Artificial** e me encantando cada vez mais com as possibilidades que ela oferece para transformar ideias em realidade. Tenho aprendido e experimentado projetos voltados para **IA aplicada ao dia a dia** na faculdade.
 
-🚀 Estou desenvolvendo minhas habilidades com **front-end**, mas também tenho experiência com linguagens de programação como **C**, **C++**, **Java** e **Python**.
+🚀 Estou desenvolvendo minhas habilidades com **Python**, mas também tenho experiência com linguagens de programação como **C**, **C++** e **Java**.
 
 📚 No momento, estou estudando:
-- HTML5 e CSS3
-- Banco de Dados (MySQL e PostgreSQL)
-- Lógica de Programação
 - Fundamentos de Inteligência Artificial e Aprendizado de Máquina
 
 📫 Você pode falar comigo por e-mail: **milleremilly5@gmail.com**
