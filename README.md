@@ -54,4 +54,7 @@
   </a>
 </div>
 
-![snake gif](https://github.com/emmily5/emmily5/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake comendo meus commits
+
+![snake gif](https://raw.githubusercontent.com/emmily5/emmily5/output/github-contribution-grid-snake.svg)
+
