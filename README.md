@@ -1,4 +1,4 @@
-### 👋 Hello, worold! Eu sou a Emilly Miller
+### 👋 Hello, world! Eu sou a Emilly Miller
 
 🎓 Estudante de Tecnologia da Informação, apaixonada por tecnologia, pessoas e soluções inteligentes.
 
